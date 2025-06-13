@@ -1,0 +1,27 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<rect x="60" y="75" width="30" height="30" fill="#D9D9D9"/>
+<path d="M90 105H60L90 75V105Z" fill="black" fill-opacity="0.1"/>
+<rect x="60" y="75" width="30" height="30" fill="white"/>
+<path d="M90 105H60L90 75V105Z" fill="black" fill-opacity="0.1"/>
+<rect x="60" y="135" width="30" height="30" fill="#D9D9D9"/>
+<path d="M90 165H60L90 135V165Z" fill="black" fill-opacity="0.1"/>
+<rect x="60" y="135" width="30" height="30" fill="white"/>
+<path d="M90 165H60L90 135V165Z" fill="black" fill-opacity="0.1"/>
+<rect x="30" y="105" width="30" height="30" fill="#D9D9D9"/>
+<path d="M60 135H30L60 105V135Z" fill="black" fill-opacity="0.1"/>
+<rect x="30" y="105" width="30" height="30" fill="white"/>
+<path d="M60 135H30L60 105V135Z" fill="black" fill-opacity="0.1"/>
+<rect x="90" y="105" width="30" height="30" fill="#D9D9D9"/>
+<path d="M120 135H90L120 105V135Z" fill="black" fill-opacity="0.1"/>
+<rect x="90" y="105" width="30" height="30" fill="white"/>
+<path d="M120 135H90L120 105V135Z" fill="black" fill-opacity="0.1"/>
+<rect x="150" y="120" width="30" height="30" fill="#D9D9D9"/>
+<path d="M180 150H150L180 120V150Z" fill="black" fill-opacity="0.1"/>
+<rect x="150" y="120" width="30" height="30" fill="white"/>
+<path d="M180 150H150L180 120V150Z" fill="black" fill-opacity="0.1"/>
+<rect x="180" y="90" width="30" height="30" fill="#D9D9D9"/>
+<path d="M210 120H180L210 90V120Z" fill="black" fill-opacity="0.1"/>
+<rect x="180" y="90" width="30" height="30" fill="white"/>
+<path d="M210 120H180L210 90V120Z" fill="black" fill-opacity="0.1"/>
+</svg>
